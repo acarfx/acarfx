@@ -32,8 +32,8 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=acarfx&show_icons=true&theme=dark&locale=en&layout=compact" alt="acarfx" /></p>
 
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=acarfx&show_icons=true&theme=dark&locale=en" alt="acarfx" /></p>
+<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=acarfx&show_icons=true&theme=dark&locale=en" alt="acarfx" /></p>
 
-<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=acarfx&theme=dark" alt="acarfx" /></p>
+<p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=acarfx&theme=dark" alt="acarfx" /></p>
 
 <div align="left"><img src="https://spotify-github-profile.vercel.app/api/view?uid=31ccodzyfd7fmuwfzxc3hrouei74&cover_image=true&theme=default&show_offline=false&background_color=121212&bar_color=53b14f&bar_color_cover=true" /></div>  
