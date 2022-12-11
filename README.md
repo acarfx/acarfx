@@ -2,7 +2,7 @@
 <h3 align="center">A passionate backend developer and musician from Turkey.</h3>
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=acarfx" alt="acarfx" /></a> </p>
 
-
+<p align="left"><img src="https://raw.githubusercontent.com/acarfx/acarfx/blob/output/snake.svg" alt="Snake animation" /></p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=acarfx&label=Profile%20views&color=1d1f20&style=flat-square" alt="acarfx" /> </p>
 <p align="left"> <a href="https://twitter.com/acarfx" target="blank"><img src="https://img.shields.io/twitter/follow/acarfx?logo=twitter&style=for-the-badge" alt="acarfx" /></a> </p>
 
