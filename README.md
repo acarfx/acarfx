@@ -36,12 +36,14 @@
 
 <p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=acarfx&theme=dark" alt="acarfx" /></p>
 
+</br>
+
 <div align="left"><img src="https://spotify-github-profile.vercel.app/api/view?uid=31ccodzyfd7fmuwfzxc3hrouei74&cover_image=true&theme=default&show_offline=false&background_color=121212&bar_color=53b14f&bar_color_cover=true" /></div>  
 
 </br>
 
-<div align="center">
+
 ![GitHub metrics](https://metrics.lecoq.io/acarfx)  
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=acarfx)
-</div>
+
 
