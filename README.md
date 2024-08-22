@@ -9,7 +9,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=acarfx&label=Profile%20views&color=1d1f20&style=flat-square" alt="acarfx" /> </p>
 <p align="left"> <a href="https://twitter.com/acarfx" target="blank"><img src="https://img.shields.io/twitter/follow/acarfx?logo=twitter&style=for-the-badge" alt="acarfx" /></a> </p>
 
-- Synl.io [Management Panel](https://synl.io/)
+- Synl.io [Management Panel](https://synl.io/) (End of 2023 December)
 - ECBS [Entegre Çevre Bilgi Sistemi](https://ecbs.cevre.gov.tr/)
 - V.VİSKOZ [Company Backend](https://www.vimpi.com.tr/)
 - Portfolio [https://acarfx.com.tr/](https://acarfx.com.tr/)
