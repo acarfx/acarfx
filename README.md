@@ -1,51 +1,150 @@
+# Hi there, I'm Selahattin Acar! 👋
+### Back-End Developer & Software Builder | System Administrator | Music Producer
 
+<p align="center">
+  <img src="https://img.shields.io/badge/Location-Turkey-blue?style=flat-square&logo=googlemaps&logoColor=white" alt="Location" />
+  <a href="mailto:contact@acarfx.com"><img src="https://img.shields.io/badge/Email-contact%40acarfx.com-red?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://open.spotify.com/artist/48Ela8Vmzlfc81u869pqxN"><img src="https://img.shields.io/badge/Spotify-Acarfx-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Spotify" /></a>
+  <a href="https://instagram.com/acarfx"><img src="https://img.shields.io/badge/Instagram-@acarfx-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram" /></a>
+</p>
 
+---
 
-<h1 align="center">Hi 👋, I'm Acarfx</h1>
-<h3 align="center">A passionate backend developer and musician from Turkey.</h3>
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=acarfx" alt="acarfx" /></a> </p>
+### 🚀 About Me
 
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=acarfx&label=Profile%20views&color=1d1f20&style=flat-square" alt="acarfx" /> </p>
-<p align="left"> <a href="https://twitter.com/acarfx" target="blank"><img src="https://img.shields.io/twitter/follow/acarfx?logo=twitter&style=for-the-badge" alt="acarfx" /></a> </p>
+I am a **Back-End Developer** based in Turkey, specializing in building high-performance server-side applications, robust API architectures, database management systems, and custom automation tools. 
 
-- Synl.io [Management Panel](https://synl.io/) (End of 2023 December)
-- ECBS [Entegre Çevre Bilgi Sistemi](https://ecbs.cevre.gov.tr/)
-- V.VİSKOZ [Company Backend](https://www.vimpi.com.tr/)
-- Portfolio [https://acarfx.com.tr/](https://acarfx.com.tr/)
-- Spotify [https://sptfy.com/acarfx](https://sptfy.com/acarfx)
+* 💻 I focus on transforming complex business requirements into stable, scalable, and maintainable software systems.
+* ⚙️ I have solid experience in Linux server management, server virtualization, Nginx configuration, and PM2 process management.
+* 🎧 When I am not designing databases or configuring servers, I compose and produce music under my project **Acarfx** on Spotify.
 
+---
 
-<img align="right" width="400px" src="https://user-images.githubusercontent.com/77089894/206934975-0e140d74-3d5e-4e2f-afde-c6e372e5274b.gif">
+### 🛠️ Technologies & Tools
 
+<details open>
+<summary><b>💻 Programming Languages</b></summary>
+<p>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL" />
+</p>
+</details>
 
-<h3 align="left">Connect with me:</h3>
-<div align="left">
-<a href="https://github.com/acarfx" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
-<a href="https://twitter.com/acarfx" target="_blank">
-<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
-</a>
-<a href="https://instagram.com/acwr_" target="_blank">
-<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
-</a>  
-</div>  
+<details open>
+<summary><b>⚙️ Back-End & API Development</b></summary>
+<p>
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js" />
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel" />
+  <img src="https://img.shields.io/badge/.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET Core" />
+  <img src="https://img.shields.io/badge/REST_API-009688?style=for-the-badge&logo=api&logoColor=white" alt="REST API" />
+  <img src="https://img.shields.io/badge/SOAP_API-00A86B?style=for-the-badge&logo=soap&logoColor=white" alt="SOAP API" />
+  <img src="https://img.shields.io/badge/API_Gateway-FF5722?style=for-the-badge&logo=auth0&logoColor=white" alt="API Gateway" />
+</p>
+</details>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://canvasjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/Hardik0307/Hardik0307/master/assets/canvasjs-charts.svg" alt="canvasjs" width="40" height="40"/> </a> <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://d3js.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/d3js/d3js-original.svg" alt="d3js" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://grafana.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://mariadb.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nativescript.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/nativescript.svg" alt="nativescript" width="40" height="40"/> </a> <a href="https://nestjs.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg" alt="nestjs" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://nuxtjs.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/nuxtjs/nuxtjs-icon.svg" alt="nuxtjs" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://www.ruby-lang.org/en/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" alt="ruby" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> </p>
+<details open>
+<summary><b>🗄️ Database Management</b></summary>
+<p>
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
+  <img src="https://img.shields.io/badge/Elasticsearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white" alt="Elasticsearch" />
+  <img src="https://img.shields.io/badge/JSON_Database-000000?style=for-the-badge&logo=json&logoColor=white" alt="JSON Database" />
+</p>
+</details>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=acarfx&show_icons=true&theme=dark&locale=en&layout=compact" alt="acarfx" /></p>
+<details>
+<summary><b>🌐 Server, Cloud & Infrastructure</b></summary>
+<p>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
+  <img src="https://img.shields.io/badge/VMware-607078?style=for-the-badge&logo=vmware&logoColor=white" alt="VMware" />
+  <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" alt="Nginx" />
+  <img src="https://img.shields.io/badge/PM2-2B037A?style=for-the-badge&logo=pm2&logoColor=white" alt="PM2" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+</p>
+</details>
 
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=acarfx&show_icons=true&theme=dark&locale=en" alt="acarfx" /></p>
+<details>
+<summary><b>📱 Front-End & Mobile</b></summary>
+<p>
+  <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Native" />
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+</p>
+</details>
 
-<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=acarfx&theme=dark" alt="acarfx" /></p>
+---
 
-</br>
+### 🚀 Highlighted Projects
 
-<div align="left"><img src="https://spotify-github-profile.vercel.app/api/view?uid=31ccodzyfd7fmuwfzxc3hrouei74&cover_image=true&theme=default&show_offline=false&background_color=121212&bar_color=53b14f&bar_color_cover=true" /></div>  
+Here are some of the key platforms and systems I have architected and built:
 
+#### 📂 [WebAS](https://webas.io)
+* **Description:** An enterprise-grade automation platform designed for managing cloud resources, virtualized servers, licensing models, custom API gateways, and multi-service SOAP/REST architectures. 
+* **Key Achievements:** Built **`@webas/ps`** (a native, high-performance Node.js wrapper for schema-validated PostgreSQL operations).
+* **Tech Stack:** `Node.js`, `PostgreSQL`, `API Gateway`, `SOAP`, `REST`, `Nginx`, `PM2`
 
+#### 📂 [DcAnaliz](https://dcanaliz.com)
+* **Description:** An AI-powered Discord analytical system (formerly BotVoi) that queries, structures, and parses server activity data. It processes user interactions and behaviors to generate in-depth statistical research reports.
+* **Tech Stack:** `Node.js`, `Next.js`, `PostgreSQL`, `AI Querying`, `Data Analysis`
 
+#### 📂 ALPR (Automatic License Plate Recognition)
+* **Description:** A smart camera automation and site management gateway that scans license plates in real-time, matching them against local databases to trigger physical gate opening through hardware relay modules.
+* **Tech Stack:** `Node.js`, `MongoDB`, `Electron.js`, `Python Flask`, `YOLOv11 OCR`
 
+#### 📂 ForumX
+* **Description:** A next-generation, fast and modular forum engine (inspired by classic structures like MyBB). Designed for modern performance standards, it features WhatsApp user verification, a modular theme system, and an extensible plugin engine.
+* **Tech Stack:** `Node.js`, `Elasticsearch`, `PostgreSQL`, `WhatsApp API`
 
+#### 📂 WebAS Accounting (WebAS Muhasebe)
+* **Description:** A multi-tenant ERP and preliminary accounting tool featuring stock, invoice, client, and multi-firm operations. Integrates WhatsApp automated notifications for scheduled financial reporting, and provides legal GİB (Turkish Revenue Administration) e-archive exports.
+* **Tech Stack:** `Node.js`, `MySQL`, `Next.js`, `Electron.js`, `WhatsApp Business API`
+
+---
+
+### 📊 GitHub Statistics & Performance
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=acarfx&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Acarfx's GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=acarfx&layout=compact&theme=tokyonight&hide_border=true" alt="Acarfx's Top Languages" width="48%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=acarfx&theme=tokyonight&hide_border=true" alt="Acarfx's Contribution Streak" width="98%" />
+</p>
+
+---
+
+### 🎵 Off the Keyboard / My Music
+
+When I'm not writing code, I compose and produce music. I enjoy bringing ideas to life through sound design and digital instrumentation. 
+
+Feel free to check out my musical projects on **Spotify**:
+
+<p align="left">
+  <a href="https://open.spotify.com/artist/48Ela8Vmzlfc81u869pqxN">
+    <img src="https://novatorem.vercel.app/api/spotify-card?artistId=48Ela8Vmzlfc81u869pqxN&theme=dark" alt="Listen on Spotify" width="400" />
+  </a>
+</p>
+
+---
+
+### 📬 Connect With Me
+
+* 🌐 **Personal Website:** [acarfx.com](https://acarfx.com)
+* 📧 **Primary Email:** contact@acarfx.com / acarfx06@gmail.com
+* 📸 **Instagram:** [@acarfx](https://instagram.com/acarfx)
+* 💼 **LinkedIn:** *(Add your LinkedIn link here if available)*
+
+---
+
+*“Turning complex business ideas into robust, clean and maintainable code.”*
